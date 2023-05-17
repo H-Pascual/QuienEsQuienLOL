@@ -1,0 +1,10 @@
+Este proyecto es un proyecto hecho en C# con Visual Studio (Windows Forms)
+
+Es un videojuego de escritorio que incluye 2 tipos de juegos diferentes:
+
+  1. Adivinar mi personaje: Un videojuego de 1 jugador inspirado en Akinator donde el jugador piensa en un personaje del League of Legends 
+  y el programa intenta adivinar este personaje con preguntas de si o no.
+  
+  2. Quién es quién: Un videojuego para 2 jugadores donde tendrán que elegir un personaje del League of Legends y preguntandose entre ellos
+  deberán adivinar el personaje de su contrincante. Tendrán 3 vidas (es decir 3 intentos para adivinar) y perderá el primero que se quede sin
+  vidas, sin personajes o si tu contrincante adivina tu personaje antes que tú.
