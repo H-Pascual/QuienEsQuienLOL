@@ -39,11 +39,7 @@ namespace ProyectoProgramacion
         private void RecorrerTablero(Jugador jugador, string personaje)
         {
             List<Personaje> lista = Menu.listaPersonajes;
-            foreach (Personaje a in lista)
-            {
-                if (a.Nombre == personaje)
-                    jugador.Elegido = a;
-            }
+            jugador.Elegido = lista.Where(i => i.Nombre.Equals(personaje)).First();
         }
         private void button1_Click(object sender, EventArgs e)
         {

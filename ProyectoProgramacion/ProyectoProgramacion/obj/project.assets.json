@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MSI\\source\\repos\\ProyectoProgramacion\\ProyectoProgramacion\\ProyectoProgramacion.csproj",
+      "projectUniqueName": "C:\\Users\\MSI\\source\\repos\\VideojuegoLOL\\ProyectoProgramacion\\ProyectoProgramacion\\ProyectoProgramacion.csproj",
       "projectName": "ProyectoProgramacion",
-      "projectPath": "C:\\Users\\MSI\\source\\repos\\ProyectoProgramacion\\ProyectoProgramacion\\ProyectoProgramacion.csproj",
+      "projectPath": "C:\\Users\\MSI\\source\\repos\\VideojuegoLOL\\ProyectoProgramacion\\ProyectoProgramacion\\ProyectoProgramacion.csproj",
       "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MSI\\source\\repos\\ProyectoProgramacion\\ProyectoProgramacion\\obj\\",
+      "outputPath": "C:\\Users\\MSI\\source\\repos\\VideojuegoLOL\\ProyectoProgramacion\\ProyectoProgramacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",
