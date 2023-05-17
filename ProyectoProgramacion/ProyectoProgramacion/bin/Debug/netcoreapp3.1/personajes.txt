@@ -1,0 +1,163 @@
+Aatrox;luchador;hombre;top;jungla;armas;grande;false;cerca;es un demonio;es de color negro y rojo;recupera vida al dañar a los enemigos;aatrox.jpg
+Ahri;mago;mujer;mid;adc;magia;mediano;true;lejos;tiene 9 colas;parece un zorro;lanza bolas de fuego;ahri.jpg
+Akali;asesino;mujer;top;mid;armas;mediano;true;cerca;lanza una bomba de humo;tiene la cara tapada;lanza shurikens;akali.jpg
+Akshan;tirador;hombre;mid;top;armas;mediano;true;lejos;se parece a Aladdin;tiene el pelo negro;utiliza un gancho y un bumeran;akshan.jpg
+Alistar;tanque;hombre;support;top;puños;grande;false;cerca;es un minotauro;su nombre empieza por A;se lanza hacia sus enemigos;alistar.jpg
+Amumu;tanque;hombre;jungla;support;magia;pequeño;false;cerca;es una momia;llora mucho;lanza sus vendas;amumu.jpg
+Anivia;mago;hombre;mid;support;magia;mediano;false;lejos;parece un pájaro;es un espíritu alado;lanza una tormenta glacial;anivia.jpg
+Annie;mago;mujer;support;mid;magia;pequeño;true;lejos;es una niña pequeña;lleva un osito de peluche;utiliza el fuego;annie.jpg
+Aphelios;tirador;hombre;adc;mid;armas;mediano;true;lejos;lleva varias armas encima;dispara un rayo de luz lunar;tiene la piel pálida;aphelios.jpg
+Ashe;tirador;mujer;adc;top;armas;mediano;true;lejos;es una cazadora;nacida en Freljord;lanza flechas de hielo;ashe.jpg
+Aurelion Sol;mago;hombre;mid;top;magia;grande;false;lejos;es un dragón;crea estrellas con su aliento;gira alrededor de su eje para crear una espiral de estrellas;aurelion.jpg
+Azir;mago;hombre;mid;top;magia;mediano;false;lejos;es un emperador;controla un ejército de soldados de arena;crea una torre de arena;azir.jpg
+Bardo;apoyo;hombre;support;top;magia;mediano;false;lejos;es un espíritu celestial;recoge objetos cósmicos;crea túneles mágicos;bardo.jpg
+Bel’veth;luchador;mujer;jungla;mid;magia;mediano;false;lejos;es la emperatriz del vacio;es un alienigena;se transforma en un alien;betveth.jpg
+Blitzcrank;tanque;hombre;support;top;puños;grande;false;cerca;es un robot;lanza un gancho de hierro;electrifica a sus enemigos;blit.jpg
+Brand;mago;hombre;support;mid;magia;mediano;false;lejos;es un demonio;quema a sus enemigos;crea una explosión de fuego;brand.jpg
+Braum;tanque;hombre;support;top;armas;grande;false;cerca;es un guerrero;protege a sus aliados;lanza un escudo como arma;braum.jpg
+Caitlyn;tirador;mujer;adc;top;armas;mediano;true;lejos;es una sheriff;nacida en Piltover;lanza una red;cait.jpg
+Camille;luchador;mujer;top;jungla;armas;grande;false;cerca;es una cyborg;tiene una garra que se transforma;se mueve con gracia;camille.jpg
+Cassiopeia;mago;mujer;mid;adc;magia;mediano;false;lejos;es una serpiente;tiene la cola y la cabeza de una serpiente;envenena a sus enemigos;cassiopeia.jpg
+Cho'Gath;tanque;hombre;top;jungla;armas;grande;false;cerca;es una criatura alienígena;tiene grandes mandíbulas y garras;crece de tamaño al matar a sus enemigos;chogath.jpg
+Corki;tirador;hombre;mid;top;magia;pequeño;false;lejos;es un yordle;monta un avión con armas;dispara misiles y bombas;corki.jpg
+Darius;luchador;hombre;top;jungla;armas;grande;false;cerca;es un guerrero noxiano;lleva una gran hacha;golpea con fuerza y ejecuta a sus enemigos;darius.jpg
+Diana;mago;mujer;mid;jungla;armas;mediano;false;cerca;es una guerrera lunar;lleva una lanza curva;crea una cúpula lunar y ataca con la luna;diana.jpg
+Dr. Mundo;tanque;hombre;top;jungla;puños;grande;false;cerca;es un científico loco;siempre lleva una bata de laboratorio;lanza una sierra y se cura con su regeneración;mundo.jpg
+Draven;tirador;hombre;adc;top;armas;mediano;false;lejos;es un gladiador noxiano;lleva dos hachas giratorias;lanza sus hachas y hace malabares con ellas;draven.jpg
+Ekko;asesino;hombre;mid;jungla;armas;mediano;false;cerca;es un adolescente del futuro;lleva un dispositivo temporal;se mueve rápidamente y regresa en el tiempo;ekko.jpg
+Elise;mago;mujer;mid;jungla;magia;mediano;false;cerca;es una reina araña;lleva un bastón de araña;se transforma en una araña y atrapa a sus enemigos;elise.jpg
+Evelynn;asesino;mujer;jungla;mid;magia;mediano;true;cerca;es un demonio;lleva una lanza;se camufla en la sombra y ataca con una daga;evelynn.jpg
+Ezreal;tirador;hombre;adc;mid;armas;mediano;true;lejos;tiene un guante mágico;le gusta la aventura;dispara rayos de energía;ezreal.jpg
+Fiddlesticks;mago;hombre;jungla;support;magia;mediano;false;lejos;parece un espantapájaros;asusta a sus enemigos;lanza una bandada de cuervos;fiddle.jpg
+Fiora;luchador;mujer;top;mid;armas;mediano;true;cerca;es una espadachina;vestida con elegancia;ataca los puntos vitales;fiora.jpg
+Fizz;asesino;hombre;mid;top;armas;mediano;true;cerca;es un tritón;le gusta jugar;ataca con un tridente y salta con su caña de pescar;fizz.jpg
+Galio;tanque;hombre;support;top;magia;grande;false;cerca;es una estatua viviente;protege a sus aliados;lanza un embate colosal;galio.jpg
+Gangplank;luchador;hombre;top;adc;armas;mediano;true;cerca;es un pirata;tiene un ojo tapado;dispara una bala envenenada;gang.jpg
+Garen;luchador;hombre;top;adc;armas;grande;false;cerca;es un noble demaciano;protege a su reino;hace girar su espada;garen.jpg
+Gnar;luchador;hombre;top;adc;armas;mediano;true;cerca;es un yordle;se transforma en un monstruo;lanza un búmerang y da un pisotón;gnar.jpg
+Gragas;tanque;hombre;jungla;support;armas;grande;false;cerca;le gusta el alcohol;es un borracho;lanza un barril explosivo;gragas.jpg
+Graves;tirador;hombre;adc;top;armas;mediano;true;lejos;es un forajido;fuma un cigarro;dispara una escopeta;graves.jpg
+Gwen;luchador;mujer;top;mid;armas;mediano;true;cerca;es una muñeca viviente;teje su propia armadura;ataca con tijeras;gwen.jpg
+Hecarim;tanque;hombre;jungla;top;armas;grande;false;cerca;es un centauro;corre a gran velocidad;su nombre empieza por H;hecarim.jpg
+Heimerdinger;mago;hombre;top;mid;armas;pequeño;false;lejos;es un yordle científico;crea máquinas;inventa robots;heimerdinger.jpg
+Illaoi;luchador;mujer;top;mid;armas;grande;false;cerca;es una sacerdotisa kraken;adora a los krakens;lanza tentáculos;illaoi.jpg
+Irelia;luchador;mujer;top;mid;armas;mediano;true;cerca;es una bailarina;lanza cuchillas;se desliza por el aire;irelia.jpg
+Ivern;apoyo;hombre;jungla;support;magia;grande;false;lejos;protege a la naturaleza;es un arbol;invoca a sus amigos animales;ivern.jpg
+Janna;apoyo;mujer;support;mid;magia;mediano;true;lejos;es un hada;manipula el viento;lanza un torbellino;janna.jpg
+Jarvan IV;tanque;hombre;jungla;top;armas;grande;false;cerca;es un príncipe;es rubio;lanza su bandera;jarvan.jpg
+Jax;luchador;hombre;top;jungla;armas;grande;false;cerca;es un guerrero;usa un bastón;contraataca a sus enemigos;jax.jpg
+Jayce;luchador;hombre;top;mid;armas;mediano;false;cerca;es un inventor;usa un martillo y un cañón de mercurio;transforma sus armas;jayce.jpg
+Jhin;tirador;hombre;adc;mid;armas;mediano;true;lejos;es un asesino;dispara balas de su pistola;admira la belleza de sus asesinatos;jhin.jpg
+Jinx;tirador;mujer;adc;top;armas;mediano;true;lejos;es una loca;usa un lanzacohetes;adora causar caos;jinx.jpg
+K'sante;tirador;hombre;adc;top;armas;mediano;true;lejos;es un cazador de recompensas;usa su rifle de francotirador;tiene un traje muy llamativo;ksante.jpg
+Kai'sa;tirador;mujer;adc;mid;armas;mediano;true;lejos;es una cazadora del vacío;usa un traje simbiótico;dispara rayos de energía;kaisa.jpg
+Kalista;tirador;mujer;adc;top;armas;mediano;true;lejos;es una espectro;usa sus lanzas espirituales;puede unir a sus enemigos a los espíritus;kalista.jpg
+Karma;mago;mujer;mid;support;magia;mediano;true;lejos;es una monje;manipula la energía espiritual;lanza rayos de energía;karma.jpg
+Karthus;mago;hombre;mid;jungla;magia;mediano;false;lejos;es una entidad no-muerta;lanza llamas;es capaz de ver a través de la niebla;karthus.jpg
+Kassadin;asesino;hombre;mid;top;magia;mediano;false;cerca;un cazador de magos;tiene una máscara con un cristal en el centro;puede absorber magia;kassadin.jpg
+Katarina;asesino;mujer;mid;top;armas;mediano;true;cerca;una asesina sin piedad;tiene el pelo rojo y lleva dos cuchillas;hace rápidos saltos para dañar a sus enemigos;katarina.jpg
+Kayle;tanque;mujer;mid;top;magia;mediano;true;lejos;una guerrera celestial;usa una espada dorada y lleva alas;puede volar y curarse a sí misma y a sus aliados;kayle.jpg
+Kayn;asesino;hombre;jungla;mid;armas;mediano;false;cerca;un luchador misterioso;tiene una capa azul con una máscara;se transforma en un asesino sombrío;kayn.jpg
+Kennen;mago;hombre;top;mid;magia;pequeño;false;cerca;un yordle eléctrico;es una pequeña bola peluda de color morado y amarillo;dispara rayos eléctricos y puede aturdir a sus enemigos;kennen.jpg
+Kha'Zix;asesino;hombre;jungla;top;armas;mediano;false;cerca;un depredador evolucionado;se asemeja a un insecto y tiene una apariencia alienígena;puede evolucionar sus habilidades y recuperar vida;khazix.jpg
+Kindred;tirador;mujer;jungla;adc;puños;mediano;false;cerca;tiene forma de animales;se asemeja a un lobo y un cordero;son 2 animales en uno;kindred.jpg
+Kled;luchador;hombre;top;mid;armas;mediano;false;cerca;un yordle;monta un lagarto;lanza su trampa caldera;kled.jpg
+Kog'maw;tirador;hombre;adc;top;puños;mediano;false;lejos;parece un gusano venenoso;escupe ácido;explota al morir;kog.jpg
+LeBlanc;mago;mujer;mid;top;magia;mediano;true;lejos;es una hechicera;hace clones;lanza bolas de fuego;leblanc.jpg
+Lee Sin;asesino;hombre;jungla;top;puños;mediano;true;cerca;es un monje ciego;hace patadas;usa la visión del monje;leesin.jpg
+Leona;tanque;mujer;support;top;armas;mediano;true;cerca;es una guerrera del sol;usa su escudo para atacar;su nombre se parece a un leon;leona.jpg
+Lillia;luchador;mujer;jungla;mid;magia;mediano;false;cerca;es una niña con un palo;duerme a los enemigos;lanza su granadilla;lillia.jpg
+Lissandra;mago;mujer;mid;top;magia;mediano;true;lejos;es una hechicera del hielo;congela a los enemigos;crea un muro de hielo;lissandra.jpg
+Lucian;tirador;hombre;adc;mid;armas;mediano;false;lejos;es un cazador de espíritus;dispara ráfagas de luz;recarga sus pistolas;lucian.jpg
+Lulu;mago;mujer;support;mid;magia;pequeño;false;lejos;es un hada;crea un aliado gigante;lanza polvo de hadas;lulu.jpg
+Lux;mago;mujer;support;mid;magia;mediano;false;lejos;es una maga de la luz;lanza su rayo de luz;crea una barrera de luz;lux.jpg
+Maestro Yi;asesino;hombre;jungla;top;armas;mediano;true;cerca;es un guerrero wuju;tiene un ataque de múltiples impactos;puede volverse temporalmente invulnerable;maestroyi.jpg
+Malphite;tanque;hombre;top;jungla;puños;grande;false;cerca;es una roca viviente;se puede convertir en una mole gigante;causa daño de área con su ultimate;malphite.jpg
+Malzahar;mago;hombre;mid;top;magia;mediano;false;lejos;es un profeta del vacío;tiene un ataque de enjambre de criaturas;usa el vacío para silenciar y controlar a sus enemigos;malzahar.jpg
+Maokai;tanque;hombre;top;jungla;puños;grande;false;cerca;es un árbol antiguo;se enreda con sus enemigos;es capaz de revivir después de morir;maokai.jpg
+Milio;mago;hombre;support;mid;magia;mediano;true;lejos;tiene aspecto de niño;juega al futbol;utiliza el fuego;milio.jpg
+Miss Fortune;tirador;mujer;adc;mid;armas;mediano;true;lejos;es una pirata;usa su pasión para infligir daño extra;su ultimate dispara una lluvia de balas;missfortune.jpg
+Mordekaiser;tanque;hombre;top;jungla;puños;grande;false;cerca;es un guerrero oscuro;convierte al enemigo muerto en un fantasma aliado;hace un ataque en área que ralentiza a sus enemigos;morde.jpg
+Morgana;mago;mujer;support;mid;magia;mediano;true;lejos;es un ángel caído;usa su escudo de magia para proteger a sus aliados;atrapa a sus enemigos en una jaula de tormento;morgana.jpg
+Nami;mago;mujer;support;mid;magia;mediano;true;lejos;parece una sirena;controla el agua;atrapa a sus enemigos en burbujas;nami.jpg
+Nasus;luchador;hombre;top;jungla;armas;grande;true;cerca;un guerrero egipcio;es un dios egipcio;roba vida con su ataque básico;nasus.jpg
+Nautilus;tanque;hombre;support;top;armas;grande;true;cerca;parece un submarino;utiliza un gancho;lanza un ancla y arrastra a los enemigos;nautilus.jpg
+Neeko;mago;mujer;mid;top;magia;mediano;true;lejos;cambia de forma;parece una sirena;se camufla como un campeón aliado y engaña a los enemigos;neeko.jpg
+Nidalee;asesino;mujer;top;jungla;armas;mediano;true;lejos;se transforma en un gato;lleva ropa de la prehistoria;lanza una lanza y salta sobre los enemigos;nidalee.jpg
+Nilah;luchador;mujer;adc;mid;armas;mediano;true;lejos;una cazadora;utiliza un látigo;dispara flechas con hielo y ralentiza a los enemigos;nilah.jpg
+Nocturne;asesino;hombre;jungla;mid;armas;mediano;false;cerca;un demonio oscuro;es de color negro;se vuelve invisible y ataca a sus enemigos con sus garras;nocturne.jpg
+Nunu y Willump;tanque;hombre;support;jungla;puños;grande;true;cerca;un niño y su amigo yeti;lanzan una bola de nieve y ralentizan a los enemigos;viene de un lugar helado;nunu.jpg
+Olaf;luchador;hombre;top;jungla;puños;grande;true;cerca;un vikingo;aumenta su daño cuando está herido;se vuelve invencible;olaf.jpg
+Orianna;mago;mujer;mid;support;magia;mediano;false;lejos;una muñeca mecánica;aspecto de robot humanoide;controla un globo y lo lanza contra sus enemigos;orianna.jpg
+Ornn;tanque;hombre;top;jungla;armas;grande;true;cerca;un herrero legendario;tiene unos cuernos gigantes;lanza un viento que ralentiza a los enemigos;ornn.jpg
+Pantheon;luchador;hombre;top;mid;armas;mediano;true;cerca;un guerrero espartano;lleva escudo y espada;salta y ataca con su lanza;pantheon.jpg
+Poppy;tanque;mujer;top;jungla;armas;pequeño;true;cerca;una yordle;lleva un martillo;empuja a sus enemigos con su escudo;poppy.jpg
+Pyke;asesino;hombre;support;jungla;armas;mediano;false;cerca;un cazador de tesoros ahogado;te engancha con su arma;se camufla y ataca desde las sombras;pyke.jpg
+Qiyana;asesino;mujer;mid;jungla;magia;mediano;false;cerca;una reina de la jungla;lleva un arma de forma circular;usa la magia de la naturaleza para controlar el terreno;qiyana.jpg
+Quinn;tirador;mujer;top;adc;armas;mediano;true;lejos;una cazadora de aves;su nombre empieza por Q;vuela con su águila y ataca desde el aire;quinn.jpg
+Rakan;apoyo;hombre;support;mid;magia;mediano;false;cerca;un bailarín élfico;es pareja de Xayah;curva su cuerpo y lanza plumas que curan a sus aliados;rakan.jpg
+Rammus;tanque;hombre;jungla;top;puños;mediano;false;cerca;un armadillo;parece una tortuga;toma la forma de una bola y rueda hacia sus enemigos;rammus.jpg
+Rek’sai;luchador;mujer;jungla;mid;puños;grande;false;cerca;una cazadora subterránea;es un alienigena;crea túneles y embosca a sus enemigos desde el subsuelo;reksai.jpg
+Rell;tanque;mujer;support;top;armas;mediano;true;cerca;una caballera blindada;lleva un caballo;se convierte en metal y aturde a sus enemigos;rell.jpg
+Renata Glasc;apoyo;mujer;mid;adc;magia;mediano;true;lejos;una hechicera elemental;lleva la boca tapada;controla los elementos y lanza bolas de fuego y hielo;renata.jpg
+Renekton;luchador;hombre;top;jungla;armas;grande;true;cerca;un cocodrilo;aumenta de tamaño con su definitiva;ataca con sus garras y se cura al infligir daño;renekton.jpg
+Rengar;asesino;hombre;top;jungla;puños;mediano;false;cerca;un cazador de trofeos;es un animal;se camufla y salta sobre sus enemigos;rengar.jpg
+Riven;luchador;mujer;top;mid;armas;mediano;false;cerca;una guerrera noxiana;lleva una gran espada;usa su espada para cortar a sus enemigos en pedazos;riven.jpg
+Rumble;mago;hombre;top;mid;magia;pequeño;false;lejos;un mecánico yordle;es un animal pequeño peludo;conduce un robot que lanza fuego y bombas;rumble.jpg
+Ryze;mago;hombre;mid;top;magia;mediano;false;lejos;un hechicero rúnico;es un humano de color azulado;lanza hechizos de magia rúnica y se teletransporta;ryze.jpg
+Samira;tirador;mujer;adc;mid;armas;mediano;false;cerca;una cazadora de recompensas;utiliza varias armas;usa su espada y pistolas para atacar y bloquear proyectiles;samira.jpg
+Sejuani;tanque;mujer;jungla;top;armas;grande;true;cerca;una jinete de jabalíes;viene de un lugar helado;ataca con su lanza y congela a sus enemigos;sejuani.jpg
+Senna;tirador;mujer;support;adc;magia;mediano;true;lejos;una cazadora de almas;lleva un gran arma;dispara rayos que atraviesan a sus enemigos y curan a sus aliados;senna.jpg
+Seraphine;mago;mujer;support;mid;magia;mediano;true;lejos;una cantante de Piltover;canta para utilizar sus habilidades;lanza notas musicales y cura a sus aliados;seraphine.jpg
+Sett;luchador;hombre;top;jungla;puños;grande;true;cerca;un luchador de Noxus;tiene el pelo de color rojo;ataca con sus puños y lanza a sus enemigos;sett.jpg
+Shaco;asesino;hombre;jungla;support;magia;mediano;false;cerca;un bufón siniestro;va vestido de payaso;crea ilusiones y se teletransporta;shaco.jpg
+Shen;tanque;hombre;top;support;puños;mediano;true;cerca;un ninja de Ionia;es un ninja;usa su espada para atacar y protege a sus aliados con su cuerpo;shen.jpg
+Shyvana;luchador;mujer;jungla;top;magia;mediano;false;cerca;una medio dragón;utiliza el fuego para luchar;se transforma en un dragón y lanza bolas de fuego;shyvana.jpg
+Singed;tanque;hombre;top;mid;veneno;grande;false;cerca;un alquimista loco;es calvo;lanza gases venenosos y deja rastros de veneno en su camino;singed.jpg
+Sion;tanque;hombre;top;jungla;armas;grande;false;cerca;un coloso sin vida;es muy grande;ataca con su hacha y se explota para infligir daño;sion.jpg
+Sivir;tirador;mujer;adc;mid;armas;mediano;false;lejos;una guerrera de Shurima;su nombre empieza por S;lanza bumeranes y bloquea proyectiles con su escudo;sivir.jpg
+Skarner;luchador;hombre;jungla;mid;puños;grande;false;cerca;un escorpión de cristal;su nombre empieza por S;ataca con su cola y desgarra a sus enemigos con sus garras;skarner.jpg
+Sona;apoyo;mujer;support;mid;magia;mediano;false;lejos;una barda de Ionia;cura mucho a sus aliados;lanza notas musicales y debilita a sus enemigos con silencio y ralentización;sona.jpg
+Soraka;apoyo;mujer;support;mid;magia;mediano;true;lejos;parece un unicornio;tiene piel morada;cura a sus aliados;soraka.jpg
+Swain;mago;hombre;mid;top;magia;grande;false;lejos;tiene un cuervo;se ve malvado;roba vida a sus enemigos;swain.jpg
+Sylas;luchador;hombre;mid;top;puños;mediano;false;cerca;es un mago rebelde;tiene un brazo mágico;roba habilidades de sus enemigos;sylas.jpg
+Syndra;mago;mujer;mid;adc;magia;mediano;true;lejos;tiene poderes oscuros;se ve arrogante;levanta objetos y los lanza;syndra.jpg
+Tahm Kench;tanque;hombre;top;support;puños;grande;false;cerca;es un demonio;tiene una gran lengua;come y escupe a sus enemigos;tahm.jpg
+Taliyah;mago;mujer;mid;jungla;magia;mediano;true;lejos;controla la tierra;usa una tabla para desplazarse;lanza rocas a sus enemigos;taliyah.jpg
+Talon;asesino;hombre;mid;top;armas;mediano;true;cerca;es un asesino;tiene un gancho;salta sobre sus enemigos;talon.jpg
+Taric;tanque;hombre;support;top;puños;grande;false;cerca;brilla mucho;es un hombre con el pelo largo;protege a sus aliados;taric.jpg
+Teemo;tirador;hombre;top;jungla;armas;pequeño;true;lejos;es un yordle;tiene orejas largas;coloca setas venenosas en el campo de batalla;teemo.jpg
+Thresh;apoyo;hombre;support;top;armas;grande;false;cerca;es un carcelero;usa una guadaña;atrapa a sus enemigos;thresh.jpg
+Tristana;tirador;mujer;adc;top;armas;pequeño;true;lejos;es una yordle;usa un cañón;salta sobre sus enemigos;tristana.jpg
+Trundle;luchador;hombre;top;jungla;puños;grande;false;cerca;es un troll;tiene un gran garrote;roba la resistencia de sus enemigos;trundle.jpg
+Tryndamere;luchador;hombre;top;jungla;armas;grande;false;cerca;es un guerrero bárbaro;se enfurece y no muere;lanza hachas a sus enemigos;tryndamere.jpg
+Twisted Fate;mago;hombre;mid;adc;armas;mediano;true;lejos;es un mago estafador;lanza cartas;adivina el futuro y roba oro;twisted.jpg
+Twitch;tirador;hombre;adc;jungla;armas;mediano;true;lejos;es una rata;lanza veneno;se camufla y embosca a sus enemigos;twitch.jpg
+Udyr;luchador;hombre;jungla;top;puños;grande;false;cerca;tiene la habilidad de los animales;se transforma en animales;corre rápido y ataca;udyr.jpg
+Urgot;luchador;hombre;top;jungla;armas;grande;false;cerca;es una máquina de guerra;tiene un brazo ametralladora;ejecuta a sus enemigos;urgot.jpg
+Varus;tirador;hombre;adc;mid;armas;mediano;true;lejos;es un arquero corrupto;tiene una piel pálida;lanza flechas con una corrupción mágica;varus.jpg
+Vayne;tirador;mujer;adc;top;armas;mediano;true;lejos;es una cazadora de monstruos;tiene un traje de cazadora;lanza proyectiles y rueda hacia sus enemigos;vayne.jpg
+Veigar;mago;hombre;mid;adc;magia;pequeño;false;lejos;es un mago malvado;tiene una capa y sombrero;controla la oscuridad y la energía mágica;veigar.jpg
+Vel’koz;mago;hombre;support;mid;magia;mediano;false;lejos;es una criatura alienígena;tiene varios tentáculos;dispara rayos de energía y analiza a sus enemigos;velkoz.jpg
+Vex;mago;mujer;mid;top;magia;mediano;false;lejos;es una bruja vengativa;tiene el pelo blanco y rosa;manipula los sentimientos de sus enemigos;vex.jpg
+Vi;luchador;mujer;jungla;top;puños;mediano;false;cerca;es una policía de Piltover;tiene una armadura de alta tecnología;golpea a sus enemigos con su poderoso guantelete;vi.jpg
+Viego;luchador;hombre;jungla;top;armas;mediano;false;cerca;es un rey caído;tiene el pelo oscuro y ojos azules;absorbe el alma de sus enemigos y revive a sus muertos;viego.jpg
+Viktor;mago;hombre;top;mid;magia;mediano;false;lejos;es un cyborg inventor;tiene un brazo mecánico;controla la tecnología y dispara rayos de energía;viktor.jpg
+Vladimir;mago;hombre;mid;top;magia;mediano;false;cerca;es un vampiro;tiene la piel pálida y ojos rojos;absorbe la sangre de sus enemigos para curarse;vladimir.jpg
+Volibear;tanque;hombre;top;jungla;puños;grande;false;cerca;es un dios oso;tiene un cuerpo musculoso y una máscara;embiste a sus enemigos y controla el clima;volibear.jpg
+Warwick;luchador;hombre;jungla;top;puños;mediano;false;cerca;es un hombre lobo;tiene una armadura y ojos rojos;persigue a sus enemigos y se cura con sus ataques;warwick.jpg
+Wukong;luchador;hombre;top;jungla;armas;mediano;false;cerca;es un mono mágico;tiene una cola larga y un bastón;crea clones y se transforma en una nube de niebla;wukong.jpg
+Xayah;tirador;mujer;adc;top;armas;mediano;true;lejos;tienen plumas y es de color rojo y negro;lanza plumas;concede velocidad de ataque a su compañero de equipo cercano;xayah.jpg
+Xerath;mago;hombre;mid;support;magia;grande;false;lejos;es un golem de energía;dispara rayos de energía;puede cargar sus habilidades para causar más daño;xerath.jpg
+Xin Zhao;luchador;hombre;top;jungla;armas;mediano;false;cerca;un guerrero;usa su lanza para atacar;lanza su lanza y carga contra sus enemigos;xinzhao.jpg
+Yasuo;luchador;hombre;top;mid;armas;mediano;false;cerca;un samurái;ataca con sus espadas;puede usar su habilidad para crear una pared de viento que bloquea los proyectiles enemigos;yasuo.jpg
+Yone;asesino;hombre;top;mid;armas;mediano;false;cerca;hermano de Yasuo;ataca con sus espadas;puede teletransportarse a través de los enemigos;yone.jpg
+Yorick;luchador;hombre;top;adc;magia;grande;false;cerca;es un enterrador;usa su pala y su mascota para atacar; puede invocar tumbas que lo ayudan en la lucha;yorick.jpg
+Yummi;apoyo;mujer;support;mid;magia;pequeño;true;lejos;un gato mágico;usa sus habilidades de curación y fortalecimiento; puede saltar sobre sus compañeros de equipo para moverse rápidamente;yuumi.jpg
+Zac;tanque;hombre;jungla;top;magia;grande;false;cerca;una masa viviente de gelatina;usa sus habilidades de estiramiento y rebotar para atacar y desplazarse; puede dividirse en múltiples piezas para esquivar los ataques;zac.jpg
+Zed;asesino;hombre;mid;adc;armas;mediano;false;cerca;un ninja oscuro;ataca con sus espadas y shurikens; puede intercambiarse con su sombra para engañar a sus enemigos;zed.jpg
+Zeri;mago;mujer;mid;adc;magia;mediano;false;lejos;una hechicera enmascarada;usa sus habilidades para curar y debilitar a sus enemigos; puede lanzar una bola de nieve que ralentiza a los enemigos;zeri.jpg
+Ziggs;mago;hombre;mid;adc;magia;pequeño;false;lejos;un yordle loco por las explosiones;usa su habilidad de crear bombas para atacar a los enemigos; puede crear campos minados y una mega bomba para causar grandes daños;ziggs.jpg
+Zilean;mago;hombre;support;mid;magia;mediano;false;lejos;un mago del tiempo;usa su habilidad de manipulación del tiempo para curar y resucitar a los compañeros de equipo; puede reducir el tiempo de enfriamiento de las habilidades de los compañeros de equipo;zilean.jpg
+Zoe;mago;mujer;mid;adc;magia;mediano;true;lejos;es una niña con un sombrero de conejo;tiene un poderoso hechizo para dormir a los enemigos;tiene un portal de teletransporte;zoe.jpg
+Zyra;mago;mujer;mid;support;magia;mediano;false;lejos;es una planta;usa sus raíces para atrapar a sus enemigos;tiene espinas venenosas;zyra.jpg

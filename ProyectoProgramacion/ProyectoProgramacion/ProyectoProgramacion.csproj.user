@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Adivina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdivinarPersonaje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ayuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuienEsQuien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TableroQuienEsQuien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
