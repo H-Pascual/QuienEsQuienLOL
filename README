@@ -1,10 +1,54 @@
-Este proyecto es un proyecto hecho en C# con Visual Studio (Windows Forms)
+🎮 League of Legends - Juego de Adivinanza
 
-Es un videojuego de escritorio que incluye 2 tipos de juegos diferentes:
+Aplicación de escritorio en C# (Windows Forms) que ofrece dos modos de juego inspirados en el universo de League of Legends.
 
-  1. Adivinar mi personaje: Programa de 1 jugador inspirado en Akinator donde el jugador piensa en un personaje del League of Legends 
-  y el programa intenta adivinar este personaje con preguntas de si o no.
-  
-  2. Quién es quién: Programa para 2 jugadores donde tendrán que elegir un personaje del League of Legends y preguntandose entre ellos
-  deberán adivinar el personaje de su contrincante. Tendrán 3 vidas (es decir 3 intentos para adivinar) y perderá el primero que se quede sin
-  vidas, sin personajes o si tu contrincante adivina tu personaje antes que tú.
+🧠 Descripción del Proyecto
+
+Este proyecto es una app de videojuegos educativa y de entretenimiento desarrollada en C# con Visual Studio, utilizando el entorno gráfico de Windows Forms. El objetivo es adivinar personajes del videojuego League of Legends a través de preguntas y lógica deductiva.
+
+Incluye dos modos de juego:
+
+1. Akinator - "Adivina mi personaje"
+Modo de un jugador. El usuario piensa en un personaje de League of Legends y la app intentará adivinarlo mediante una serie de preguntas cerradas (sí/no).
+
+- Utiliza dos tipos de preguntas:
+  - Preguntas generales (género, tipo de ataque, clase, etc.)
+  - Preguntas concretas (aspecto, habilidad, características)
+- El sistema elimina personajes de la lista según las respuestas.
+- Cuando queda un solo personaje, se muestra como resultado final.
+
+2. ¿Quién es Quién?
+Modo de dos jugadores por turnos. Cada jugador elige un personaje secreto y ambos se hacen preguntas para deducir el personaje del contrincante.
+
+- Cada jugador cuenta con 3 vidas (3 intentos para adivinar).
+- Pierde el jugador que:
+  - Agota sus vidas
+  - Se queda sin personajes posibles
+  - Es adivinado primero por el oponente
+
+🧩 Estructura del Código
+
+- Adivina.cs: Controla la lógica del modo Akinator. Maneja preguntas, elimina personajes y muestra el resultado.
+- PreguntaGeneral.cs: Define preguntas amplias y genéricas.
+- PreguntaConcreta.cs: Contiene preguntas más específicas basadas en habilidades o características visuales.
+- Personaje.cs: Clase que contiene la información detallada de cada personaje (atributos como género, clase, tamaño, habilidad, etc.).
+- Menu.cs: Interfaz de selección de modo de juego.
+- AdivinarPersonaje.cs: Pantalla de resultado final en el modo Akinator.
+
+🔧 Tecnologías Utilizadas
+
+- C# (.NET Framework)
+- Windows Forms
+- Visual Studio
+
+🗂️ Cómo Ejecutarlo
+
+1. Clona el repositorio o descarga los archivos.
+2. Abre el proyecto en Visual Studio.
+3. Ejecuta el proyecto desde Menu.cs como formulario principal.
+4. Selecciona el modo de juego desde la pantalla de menú.
+
+👤 Créditos
+
+Desarrollado por: Héctor Pascual Marín
+Inspirado en los juegos clásicos Akinator y ¿Quién es Quién?, adaptado al universo de League of Legends.
