@@ -1,54 +1,63 @@
-🎮 League of Legends - Juego de Adivinanza
+# 🎮 League of Legends - Juego de Adivinanza
 
-Aplicación de escritorio en C# (Windows Forms) que ofrece dos modos de juego inspirados en el universo de League of Legends.
+**Aplicación de escritorio en C# | Inspirada en Akinator y ¿Quién es Quién?**
 
-🧠 Descripción del Proyecto
+Proyecto desarrollado en C# con Windows Forms. Esta app permite adivinar personajes del universo *League of Legends* mediante lógica y preguntas, en dos modos de juego diferentes: individual y multijugador.
 
-Este proyecto es una app de videojuegos educativa y de entretenimiento desarrollada en C# con Visual Studio, utilizando el entorno gráfico de Windows Forms. El objetivo es adivinar personajes del videojuego League of Legends a través de preguntas y lógica deductiva.
+## 🕹️ Modos de Juego
 
-Incluye dos modos de juego:
+### 1. Akinator - *"Adivina mi personaje"*
+Modo para un solo jugador donde la app adivina el personaje que el usuario tiene en mente con preguntas de **sí/no**.
 
-1. Akinator - "Adivina mi personaje"
-Modo de un jugador. El usuario piensa en un personaje de League of Legends y la app intentará adivinarlo mediante una serie de preguntas cerradas (sí/no).
+- 🔄 Alterna entre preguntas **generales** (género, tipo de ataque...) y **concretas** (habilidades, aspecto...)
+- 🧠 Filtra la lista de personajes en base a las respuestas
+- 🎯 Muestra el personaje adivinado cuando solo queda uno
 
-- Utiliza dos tipos de preguntas:
-  - Preguntas generales (género, tipo de ataque, clase, etc.)
-  - Preguntas concretas (aspecto, habilidad, características)
-- El sistema elimina personajes de la lista según las respuestas.
-- Cuando queda un solo personaje, se muestra como resultado final.
+### 2. ¿Quién es Quién?
+Juego por turnos para 2 jugadores. Cada uno elige un personaje secreto e intenta adivinar el del otro.
 
-2. ¿Quién es Quién?
-Modo de dos jugadores por turnos. Cada jugador elige un personaje secreto y ambos se hacen preguntas para deducir el personaje del contrincante.
+- ❤️ 3 vidas por jugador (3 intentos para adivinar)
+- ❌ Pierde el que:
+  - Se quede sin vidas
+  - Se quede sin personajes posibles
+  - Sea adivinado antes por su oponente
 
-- Cada jugador cuenta con 3 vidas (3 intentos para adivinar).
-- Pierde el jugador que:
-  - Agota sus vidas
-  - Se queda sin personajes posibles
-  - Es adivinado primero por el oponente
+## 🧩 Estructura del Proyecto
 
-🧩 Estructura del Código
+```
+/ProyectoProgramacion/
+├── Adivina.cs              # Lógica del modo Akinator
+├── PreguntaGeneral.cs      # Preguntas amplias (clase, género...)
+├── PreguntaConcreta.cs     # Preguntas específicas (habilidades, aspecto...)
+├── Personaje.cs            # Definición del personaje y atributos
+├── Menu.cs                 # Menú principal de modos de juego
+├── AdivinarPersonaje.cs    # Pantalla final con el personaje adivinado
+```
 
-- Adivina.cs: Controla la lógica del modo Akinator. Maneja preguntas, elimina personajes y muestra el resultado.
-- PreguntaGeneral.cs: Define preguntas amplias y genéricas.
-- PreguntaConcreta.cs: Contiene preguntas más específicas basadas en habilidades o características visuales.
-- Personaje.cs: Clase que contiene la información detallada de cada personaje (atributos como género, clase, tamaño, habilidad, etc.).
-- Menu.cs: Interfaz de selección de modo de juego.
-- AdivinarPersonaje.cs: Pantalla de resultado final en el modo Akinator.
+## ⚙️ Tecnologías Utilizadas
 
-🔧 Tecnologías Utilizadas
+- **Lenguaje:** C# (.NET Framework)
+- **Entorno:** Visual Studio
+- **Interfaz:** Windows Forms
 
-- C# (.NET Framework)
-- Windows Forms
-- Visual Studio
+## ▶️ Cómo Ejecutarlo
 
-🗂️ Cómo Ejecutarlo
+1. Clona este repositorio o descarga el código fuente.
+2. Abre el proyecto con **Visual Studio**.
+3. Establece `Menu.cs` como formulario de inicio.
+4. Ejecuta y selecciona el modo de juego deseado.
 
-1. Clona el repositorio o descarga los archivos.
-2. Abre el proyecto en Visual Studio.
-3. Ejecuta el proyecto desde Menu.cs como formulario principal.
-4. Selecciona el modo de juego desde la pantalla de menú.
+## 🧠 Lógica del Juego
 
-👤 Créditos
+- Preguntas seleccionadas aleatoriamente.
+- Eliminación progresiva de personajes según respuestas.
+- Interfaz dinámica que se adapta a la cantidad de personajes restantes.
 
-Desarrollado por: Héctor Pascual Marín
-Inspirado en los juegos clásicos Akinator y ¿Quién es Quién?, adaptado al universo de League of Legends.
+## 👤 Autor
+
+**Héctor Pascual Marín**  
+Inspirado por los juegos clásicos *Akinator* y *¿Quién es Quién?*, adaptado al universo de *League of Legends*.
+
+---
+
+> 🎯 Este proyecto es educativo y con fines de entretenimiento. No afiliado a Riot Games o League of Legends.
